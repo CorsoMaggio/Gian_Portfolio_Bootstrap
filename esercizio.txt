@@ -1,0 +1,26 @@
+
+Esercizio 1
+Obiettivo: Creare una landing page responsive con navbar, jumbotron e sezione di 3 servizi.
+Richieste:
+• Usa il container Bootstrap
+• Aggiungi una navbar responsive con brand e 3 link
+• Inserisci un jumbotron con titolo e paragrafo
+• Crea una sezione con row + col-md-4 per 3 box (icone + testo)
+• Aggiungi padding e margin con le utility class
+
+Esercizio 2
+Obiettivo: Realizzare una scheda prodotto responsive con immagine, titolo, descrizione e bottone.
+Richieste:
+• Usa una card Bootstrap con immagine sopra
+• Inserisci card-body con titolo, testo e bottone “Aggiungi al carrello”
+• Allinea la card al centro con d-flex justify-content-center
+• Applica classi di colore e rounded 
+
+Esercizio 3
+Obiettivo: Costruire un form di contatto con layout ordinato e validazione base.
+Richieste:
+• Usa form-control per input (nome, email, messaggio)
+• Dividi il form in 2 colonne su schermi grandi (col-md-6)
+• Aggiungi un bottone con stile Bootstrap
+• Inserisci placeholder e classi mb-3 per spaziatura
+• Rendi il form responsive
